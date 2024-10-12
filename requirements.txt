@@ -1,3 +1,8 @@
 mlflow==2.6.0
 pre-commit
 black==19.10b0
+
+# iqa
+fastapi[standard]
+python-multipart
+pyiqa
